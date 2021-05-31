@@ -10,6 +10,9 @@ const { v4: uuidv4 } = require('uuid');
 // set view engine to ejs
 app.set('view engine', 'ejs');
 
+// set the static public files reference
+app.use(express.static('public'));
+
 app.get('/', (req, res) => {
   // Print Message
   //   res.status(200).send('Hello World');
