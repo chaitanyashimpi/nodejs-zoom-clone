@@ -1,6 +1,6 @@
 # Zoom Clone using NodeJs
 
-
+![Banner](https://github.com/chaitanyashimpi/nodejs-zoom-clone/blob/main/Copy%20of%20GitHub%20Repository%20Banners.png)
 
 
  What will be covered in this Repo:
